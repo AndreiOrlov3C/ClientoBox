@@ -1,4 +1,4 @@
 ClientoBox
 ==========
 
-Library and example for ClientoBox API
+Library and examples for ClientoBox API. See last version of documentation here: http://clientobox.ru/Documentation.pdf
